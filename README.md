@@ -55,9 +55,11 @@ My stack:
 
 ✨ Some of my featured public personal projects ✨
 
-- [CSV Processor and Chatter 📋](https://github.com/robmux/ExcelReports), made in Python using Pandas and PyQT.
-- [Game Jam Project](https://github.com/robmux/Heal-Them), Unity game for the Ludum Dare, with the objective of Healing people and protecting them.
-- [https://github.com/robmux/Wacky-Breakout](https://github.com/robmux/Wacky-Breakout) Coursera Unity and C# specialization main project.
+- [CSV Processor and Chatter 📋](https://github.com/robmux/ExcelReports), made in Python using Pandas and PyQT. 📊
+- [Qubit-Software Brick Factory Rest API](https://github.com/Qubit-Software/Backend-Ladrillera) Backend Rest API for a Brick Factory built with Laravel. 🧱
+
+- [Game Jam Project](https://github.com/robmux/Heal-Them), Unity game for the Ludum Dare, with the objective of Healing people and protecting them. 🎮
+- [https://github.com/robmux/Wacky-Breakout](https://github.com/robmux/Wacky-Breakout) Coursera Unity and C# specialization main project. 🧑‍🎓
 
 ### 📊 Stats
 
