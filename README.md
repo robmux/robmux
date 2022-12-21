@@ -2,7 +2,7 @@
 
 **`Computer Engineer / Software Developer`**
 
-Hi, here robmux. I'm currently working as a Backend Developer at Meli. In my spare time, I learn new technologies, tools and create new projects about interactive experiences in Unity, Processing, P5js often I try to participate as much possible in Hackathons, Jame Jams, so I can test my skills and create stuff that can help people.
+Hi, here robmux. I'm currently working as a Backend Developer in Go/Python at Meli. In my spare time, I learn new technologies, tools and create new projects and learn about interactive experiences in Unity, Processing, P5js often I try to participate as much possible in Hackathons, Game Jams, so I can test my skills and create stuff that can help people.
 
 Some things I'm passionate about:
 - Web Development ☁
